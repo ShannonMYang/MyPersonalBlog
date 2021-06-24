@@ -35,17 +35,16 @@
 |  [React-Native FlatList Warning: Each child in an array or iterator should have a unique “key” prop](https://github.com/ShannonMYang/MyPersonalBlog/issues/18)  |
 |  [Xcode 11 遇见 React Native 启动报错问题 的 解决方案](https://github.com/ShannonMYang/MyPersonalBlog/issues/19)  |
 
+|  Vue 相关内容  |
+|  ---  |
+|  [Vue.js 项目 npm install 错误解析](https://github.com/ShannonMYang/MyPersonalBlog/issues/4)  |
+|  [vue-cli3 创建项目的正确姿势](https://github.com/ShannonMYang/MyPersonalBlog/issues/5)  |
+|  [npm run dev 和 npm run serve ](https://github.com/ShannonMYang/MyPersonalBlog/issues/6)  |
 
-### Vue 相关内容
+|  macOS 相关内容  |
+|  ---  |
+|  [macOS 中 常用 Homebrew 命令](https://github.com/ShannonMYang/MyPersonalBlog/issues/3)  |
+|  [如何在 Vim/Vi 中保存文件并退出编辑器](https://github.com/ShannonMYang/MyPersonalBlog/issues/20)  |
 
-[Vue.js 项目 npm install 错误解析](https://github.com/ShannonMYang/MyPersonalBlog/issues/4)
 
-[vue-cli3 创建项目的正确姿势](https://github.com/ShannonMYang/MyPersonalBlog/issues/5)
 
-[npm run dev 和 npm run serve ](https://github.com/ShannonMYang/MyPersonalBlog/issues/6)
-
-### macOS 相关内容
-
-[macOS 中 常用 Homebrew 命令](https://github.com/ShannonMYang/MyPersonalBlog/issues/3)
-
-[如何在 Vim/Vi 中保存文件并退出编辑器](https://github.com/ShannonMYang/MyPersonalBlog/issues/20)
